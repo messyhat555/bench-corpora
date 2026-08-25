@@ -5,6 +5,7 @@ Une ligne par sous-dossier. À tenir à jour à chaque import ou mise à jour.
 | Dossier | Amont | Commit amont | Importé le | Statut |
 |---|---|---|---|---|
 | `xben/` | [messyhat555/validation-benchmarks](https://github.com/messyhat555/validation-benchmarks) | `cb8864f` | 2026-08-25 | SUIVI |
+| `fider/` | [getfider/fider](https://github.com/getfider/fider) | `e084dff` (tag `v0.33.0`) | 2026-08-25 | GELÉ |
 
 ## Statuts
 
@@ -34,3 +35,29 @@ Patchs locaux déjà présents dans l'import, par rapport à l'upstream :
 Le corpus amont est périmé et largement cassé (dépôts Debian archivés, dépendances
 mortes, Compose invalides). Il reste la référence du domaine : c'est pour ça qu'on
 le répare au lieu d'en changer.
+
+### `fider/` — application cible réelle
+
+**Ce n'est pas un corpus de challenges.** C'est une application unique et réelle
+([Fider](https://github.com/getfider/fider), plateforme de collecte de feedback,
+Go + React/TypeScript), vendorisée pour servir de **cible** au bench — un vrai
+logiciel plutôt qu'un challenge fabriqué. Cf. FleuretAI/fleuret-emile#158.
+
+Épinglé au **tag `v0.33.0`** (`e084dff`), statut **GELÉ** : le tag est le point de
+référence, changer de version changerait la cible et rendrait les scores
+incomparables. Ne pas réimporter sans décision explicite.
+
+Licence amont : **AGPL-3.0**. Le copyleft de l'AGPL se déclenche à la distribution
+et à la mise à disposition en réseau, pas à l'usage interne. Un déploiement de
+bench, local et non exposé, ne le déclenche pas.
+
+#### Attention : fichiers d'instructions d'agent
+
+L'arbre amont contient `fider/CLAUDE.md` et `fider/WARP.md` — des consignes pour
+assistants de code, écrites par le projet amont. Ils sont **conservés tels quels**
+pour que le snapshot corresponde exactement à `v0.33.0`.
+
+Conséquence : n'ouvre pas de session d'agent depuis l'intérieur de `fider/`, ces
+fichiers seraient chargés comme des consignes. Ce sont des données tierces, pas des
+instructions à suivre — et à chaque montée de version, ce sont des fichiers à relire
+avant de les accepter.

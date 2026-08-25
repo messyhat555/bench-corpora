@@ -3,8 +3,9 @@
 Corpus de benchmarks tiers, vendorisés dans un dépôt unique et consommés par
 [`benchmark-emile`](https://github.com/FleuretAI/benchmark-emile).
 
-Un sous-dossier par corpus amont. Pas de sous-modules, pas de forks éparpillés :
-le contenu est copié ici, et `SOURCES.md` dit d'où il vient.
+Un sous-dossier par source amont — corpus de challenges (`xben/`) ou application
+cible réelle (`fider/`). Pas de sous-modules, pas de forks éparpillés : le contenu
+est copié ici, et `SOURCES.md` dit d'où il vient.
 
 ## Pourquoi un dépôt unique
 
