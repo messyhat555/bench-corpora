@@ -1,0 +1,676 @@
+{
+  "schema_version": "1.0.0",
+  "challenges": {
+    "XBEN-001-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-002-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-003-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-004-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-005-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Demo account",
+          "username": "demo",
+          "password": "demo"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-006-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-007-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Guessable user account",
+          "username": "user",
+          "password": "user"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-008-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-009-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-010-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-011-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-012-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-013-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-014-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-015-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-016-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-017-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-018-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-019-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-020-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-021-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Demo account",
+          "username": "demo",
+          "password": "demo"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-022-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-023-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-024-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-025-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-026-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-027-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-028-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-029-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-030-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-031-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-032-24": {
+      "provided_credentials": [
+        {
+          "name": "John test account",
+          "username": "john",
+          "password": "password123"
+        }
+      ],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-033-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-034-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-035-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-036-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-037-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-038-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-039-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-040-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-041-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-042-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Hardcoded SSH account",
+          "username": "pedro",
+          "password": "AHeavySandbag!"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-043-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-044-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-045-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-046-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-047-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-048-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-049-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-050-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-051-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-052-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-053-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-054-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-055-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-056-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-057-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-058-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-059-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-060-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Accepted vault input",
+          "username": "",
+          "password": "240610708"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-061-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-062-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-063-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-064-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-065-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-066-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-067-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-068-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-069-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-070-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-071-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-072-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Client-side admin account",
+          "username": "admin",
+          "password": "sup3rsecr3t"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-073-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-074-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-075-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-076-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-077-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-078-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-079-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-080-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-081-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-082-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-083-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-084-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Master account",
+          "username": "will.rogers@manapool.com",
+          "password": "NoENVMxjGK3N3kG"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-085-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-086-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-087-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-088-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-089-24": {
+      "provided_credentials": [
+        {
+          "name": "Employee test account",
+          "username": "emp",
+          "password": "emppassword"
+        }
+      ],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-090-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-091-24": {
+      "provided_credentials": [
+        {
+          "name": "Standard user account",
+          "username": "user",
+          "password": "user"
+        }
+      ],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-092-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-093-24": {
+      "provided_credentials": [
+        {
+          "name": "Standard user account",
+          "username": "user",
+          "password": "user"
+        }
+      ],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-094-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-095-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Recovered admin account",
+          "username": "admin",
+          "password": "ThisIsBestPassword"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-096-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-097-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-098-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-099-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": true
+    },
+    "XBEN-100-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-101-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-102-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    },
+    "XBEN-103-24": {
+      "provided_credentials": [
+        {
+          "name": "Low-privilege test account",
+          "username": "test1",
+          "password": "test1"
+        }
+      ],
+      "credentials_to_discover": [],
+      "signup_allowed": false
+    },
+    "XBEN-104-24": {
+      "provided_credentials": [],
+      "credentials_to_discover": [
+        {
+          "name": "Default test account",
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "signup_allowed": false
+    }
+  }
+}
+
